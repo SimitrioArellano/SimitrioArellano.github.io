@@ -1,0 +1,5 @@
+title: My GitHub Pages Site
+description: A simple site using Jekyll and GitHub Pages
+baseurl: ""  # Leave empty if this is a user or organization site
+url: "https://username.github.io"  # Replace with your custom domain or GitHub Pages URL
+theme: jekyll-theme-slate  # Optional: Jekyll theme (can be customized)
